@@ -33,6 +33,22 @@ Welcome to my website! This project contains a multi-page website with courses, 
 - **Multiple Pages** - Easy navigation between sections
 - **Image Assets** - Visual content in the [images/](images/) directory
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](images/screenshot-home.png)
+
+### About Page
+![About Page](images/screenshot-about.png)
+
+### Courses Page
+![Courses Page](images/screenshot-courses.png)
+
+### Contact Page
+![Contact Page](images/screenshot-contact.png)
+
+> **Note**: Add your screenshot images to the `images/` folder with the naming convention `screenshot-[pagename].png`
+
 ## 🛠️ Development
 
 To modify the website:
