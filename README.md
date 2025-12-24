@@ -13,8 +13,9 @@ Welcome to my website! This project contains a multi-page website with courses, 
 ├── css/
 │   └── style.css       # Stylesheet for the entire site
 ├── images/             # Image assets directory
-└── js/
-    └── main.js         # JavaScript functionality
+├── js/
+│   └── main.js         # JavaScript functionality
+└── ScreenShorts/       # Project screenshots
 ```
 
 ## 🚀 Getting Started
@@ -35,23 +36,28 @@ Welcome to my website! This project contains a multi-page website with courses, 
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](images/screenshot-home.png)
+### Website Preview
 
-### About Page
-![About Page](images/screenshot-about.png)
+![Screenshot 1](ScreenShorts/Screenshot%202025-12-24%20200309.png)
 
-### Courses Page
-![Courses Page](images/screenshot-courses.png)
+![Screenshot 2](ScreenShorts/Screenshot%202025-12-24%20200322.png)
 
-### Contact Page
-![Contact Page](images/screenshot-contact.png)
+![Screenshot 3](ScreenShorts/Screenshot%202025-12-24%20200430.png)
 
-> **Note**: Add your screenshot images to the `images/` folder with the naming convention `screenshot-[pagename].png`
+![Screenshot 4](ScreenShorts/Screenshot%202025-12-24%20200449.png)
+
+![Screenshot 5](ScreenShorts/Screenshot%202025-12-24%20200516.png)
+
+![Screenshot 6](ScreenShorts/Screenshot%202025-12-24%20200530.png)
+
+![Screenshot 7](ScreenShorts/Screenshot%202025-12-24%20200551.png)
+
+![Screenshot 8](ScreenShorts/Screenshot%202025-12-24%20200604.png)
 
 ## 🛠️ Development
 
 To modify the website:
+
 - **Edit styling**: Update [css/style.css](css/style.css)
 - **Add functionality**: Modify [js/main.js](js/main.js)
 - **Update content**: Edit individual `.html` files
@@ -63,4 +69,4 @@ For more information, visit the [Contact page](contact.html) to get in touch!
 
 ---
 
-*Last updated: 2024*
+_Last updated: December 24, 2025_
